@@ -3,7 +3,7 @@ name: Weirdhost 多账号自动续期
 
 on:
   schedule:
-    - cron: '20 4 * * *'
+    - cron: '34 21 * * *'
   workflow_dispatch:
 
 jobs:
